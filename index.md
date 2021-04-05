@@ -1,5 +1,5 @@
 ## Enzo Han 
-** I am a 3rd-year Computer Engineering Major **
+**I am a 3rd-year Computer Engineering Major**
 
 My first CSE professor once said:
 > Start early start often.
@@ -37,6 +37,8 @@ Here's a photo of me [Enzo Han](enzo_4.JPEG)
 - [] Visit Japan
 - [] Visit Taiwan
 - [X] Visit San Fran
+
+Thank you.
 
 
 

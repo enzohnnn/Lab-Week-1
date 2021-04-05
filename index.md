@@ -1,5 +1,5 @@
 ## Enzo Han 
-** I am a 3rd-year Computer Engineering Major **
+**I am a 3rd-year Computer Engineering Major**
 
 My first CSE professor once said:
 > Start early start often.
